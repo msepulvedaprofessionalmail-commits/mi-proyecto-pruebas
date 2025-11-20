@@ -4,10 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeEach;
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Test de Integración - Se ejecuta con maven-failsafe-plugin
- * Convención: *IT.java (Integration Test)
- */
+
 public class MiProyectoIntegrationIT {
 
     private MiProyecto aplicacion;
